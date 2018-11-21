@@ -6,7 +6,7 @@ Visit [ImmVRse](https://immvr.se/) to learn more about us and what we are trying
 
 Please check our [Whitepaper](https://immvr.se/wp-content/uploads/2018/10/Whitepaper-ImmVRse-5.2.pdf) to know about our future goals and activities. 
 
-### ImmVRse Solidity
+# ImmVRse Solidity
 
 * [Marketplace](https://github.com/immvrse/immvrse-solidity/tree/master/contracts/Marketplace) is a library of javascript code and Ethereum smart contracts which allows anyone to create decentralized marketplace contracts.
 * [Classifieds](https://github.com/immvrse/immvrse-solidity/tree/master/contracts/Marketplace/Classifieds/1.0.0) is a working DApp code for a Blockchain based Classifieds websites for buying/selling articles. Version 1.0.0 is tested in Testnet with successful transactions using [Metamask](https://metamask.io/) wallet.
