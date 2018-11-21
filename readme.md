@@ -2,4 +2,4 @@
 
 ImmVRse offers a revolutionary platform for brands looking to branch out into the new and compelling world of VR, allowing them to hire content creators in a quick, easy and convenient manner.
 
-Visit our [Website](https://immvr.se/) to learn more about us and what we are trying to do.
+Visit our [ImmVRse](https://immvr.se/) to learn more about us and what we are trying to do.
